@@ -1,6 +1,6 @@
 # Báo cáo thực hành PointPillars — Day 13
 
-Bản nộp theo quy định Codelab VLearn Day 13.
+Bản nộp theo cấu trúc Codelab Day 13 (VLearn). Đây là kiểm tra formative; không ghi điểm của người khác.
 
 ## Nhóm và provenance
 

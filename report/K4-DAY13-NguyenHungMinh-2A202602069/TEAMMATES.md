@@ -1,6 +1,6 @@
 # Thành viên nhóm — Day 13
 
-Điền theo cấu trúc nộp bài Codelab VLearn Day 13.
+Bản nộp theo cấu trúc Codelab Day 13 (VLearn).
 
 Mã nhóm/phòng: Cá nhân (Thực hiện một mình)
 

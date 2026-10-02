@@ -26,13 +26,8 @@ output/
 run-*/
 qc-cases/
 provided-results/
-/K4-DAY13-*/
+K4-DAY13-*/
 .DS_Store
-
-# Allow report markdown submissions per VLearn guidelines
-!report/
-!report/**/
-!report/**/*.md
 
 # Only the explicitly licensed KITTI adaptation is published.
 !data/demo.pcd
